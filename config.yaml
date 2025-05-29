@@ -1,5 +1,5 @@
 house_pricing:
-  train_dataset: C:\Projects\ai_fundamentals\spbu-ai-fundamentals
+  train_dataset: C:\Projects\ai_fundamentals\my\spbu-ai-fundamentals\train.csv
   #test_dataset: D:\data\spbu_ai_fundamentals\house_prices\test.csv
 #classification:
   #wdbc: D:\data\spbu_ai_fundamentals/classification/data.csv
